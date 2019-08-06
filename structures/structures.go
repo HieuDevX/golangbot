@@ -4,7 +4,7 @@ import (
 	"fmt"
 	_ "fmt"
 
-	_ "github.com/hieudevx/golangbot/structures/computer"
+	_ "github.com/hieudevx/golangbot-tms/structures/computer"
 )
 
 // Employee struct example
